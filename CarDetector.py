@@ -5,13 +5,12 @@ from time import time
 import scipy.io
 import os
 
-if os.path.basename(os.getcwd()) != 'data':
-    os.chdir('data')
+if os.path.basename(os.getcwd()) != 'models':
+    os.chdir('models')
 
 prototxtFilePath = 'deploycompcars.prototxt'
 modelFilePath = 'googlenet_finetune_web_car_iter_10000.caffemodel'
 labels = scipy.io.loadmat('labels.mat')
-car_classifier = cv2.CascadeClassifier('cascades/haarcascade_car.xml')
 
 mobilenet_model = 'mobilenet_iter_73000.caffemodel'
 mobilnet_prottxt = 'deploy.prototxt'
