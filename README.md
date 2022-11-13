@@ -22,7 +22,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -126,15 +125,15 @@ Project Link: [https://github.com/AhmedSheded/carModelClassifier](https://github
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/AhmedSheded/carModelClassifier.svg?style=for-the-badge
 [contributors-url]: https://github.com/AhmedSheded/carModelClassifier/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/AhmedSheded/carModelClassifier.svg?style=for-the-badge
 [forks-url]: https://github.com/AhmedSheded/carModelClassifier/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/AhmedSheded/carModelClassifier.svg?style=for-the-badge
 [stars-url]: https://github.com/AhmedSheded/carModelClassifier/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/AhmedSheded/carModelClassifier.svg?style=for-the-badge
 [issues-url]: https://github.com/AhmedSheded/carModelClassifier/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/AhmedSheded/carModelClassifier.svg?style=for-the-badge
 [license-url]: https://github.com/AhmedSheded/carModelClassifier/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/ahmedsheded/
