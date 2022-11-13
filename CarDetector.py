@@ -5,8 +5,8 @@ from time import time
 import scipy.io
 import os
 
-if os.path.basename(os.getcwd()) != 'models':
-    os.chdir('models')
+if os.path.basename(os.getcwd()) != 'data':
+    os.chdir('data')
 
 prototxtFilePath = 'deploycompcars.prototxt'
 modelFilePath = 'googlenet_finetune_web_car_iter_10000.caffemodel'
